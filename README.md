@@ -12,7 +12,7 @@ Programming Language: Python
 How to Use 🚀-
 
 1- Download or clone the repository.
-2- Run the monthly_calendar.py script. 
+2- Run the monthly_calendar.ipynb script. 
 3- A new application will appear. 
 4- Click the "Next" button to go to the next month.
 5- Click the "Previous" button to come back to the previous month. 
