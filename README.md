@@ -13,11 +13,11 @@ How to Use 🚀-
 
 1- Download or clone the repository.
 2- Run the monthly_calendar.py script. 
-A new application will appear. 
-Click the "Next" button to go to the next month.
-Click the "Previous" button to come back to the previous month. 
-Click the "Add Reminder" button to add any reminders. 
-Click the "Delete Reminder" button to delete any Reminders.
+3- A new application will appear. 
+4- Click the "Next" button to go to the next month.
+5- Click the "Previous" button to come back to the previous month. 
+6- Click the "Add Reminder" button to add any reminders. 
+7- Click the "Delete Reminder" button to delete any Reminders.
 
 Demo-
 
